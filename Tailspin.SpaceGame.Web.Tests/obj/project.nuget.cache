@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HDAKt4OUdaraONhbBw4pyAJ0ghYjzjZoTYcNQ03c2/98iALm9kKYUUp0NlHPZPPvpwiKtyXOybmcZH3Qr61+PA==",
+  "dgSpecHash": "YNvY+flrF7yUnMI4M44CEt5moBs1beblVl4mpFKL/lkYc0q3klP1+VWKOgS8SPjf59glyaf7eDdKbxuV7ndzEg==",
   "success": true,
   "projectFilePath": "C:\\github\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web.Tests\\Tailspin.SpaceGame.Web.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\chris.gibson\\.nuget\\packages\\coverlet.msbuild\\2.9.0\\coverlet.msbuild.2.9.0.nupkg.sha512",
     "C:\\Users\\chris.gibson\\.nuget\\packages\\microsoft.codecoverage\\15.8.0\\microsoft.codecoverage.15.8.0.nupkg.sha512",
     "C:\\Users\\chris.gibson\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\chris.gibson\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\1.0.3\\microsoft.dotnet.platformabstractions.1.0.3.nupkg.sha512",
