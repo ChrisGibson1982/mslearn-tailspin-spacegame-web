@@ -1,12 +1,12 @@
 trigger:
   - '*'
 
-  pool:
+pool:
     vmImage: 'ubuntu-18.04'
     demands:
     - npm
 
-  variables:
+variables:
     buildConfiguration: 'Release'
 
   steps:
