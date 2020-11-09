@@ -1,0 +1,9 @@
+pool:
+  vm-image: macOS-latest
+
+steps:
+- bash: |
+   brew install gitleaks
+   
+   gitleaks --repo-path=. --config=.gitleaks.toml --verbose --pretty --redact
+  displayName: 'Bash Script'
