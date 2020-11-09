@@ -4,6 +4,6 @@ pool:
 steps:
 - bash: |
    brew install gitleaks
-   
+   ls
    gitleaks --repo-path=. --config=.gitleaks.toml --verbose --pretty --redact
   displayName: 'Bash Script'
